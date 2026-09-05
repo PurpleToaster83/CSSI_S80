@@ -14,4 +14,4 @@ The attention table of Layer 4 Head 10 shows that auxiliary verbs like 'will' or
 
 Example Sentences:
 - I will wear my favorite red [MASK] when I go shopping later.
-- He has done [MASK] of his homework
+- He has done [MASK] of his homework.
